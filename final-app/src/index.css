@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+  body {
+    @apply bg-stone-400;
+  }
+}
+
+@layer base {
+  image {
+    @apply mx-auto mt-3 py-5 pt-4;
+  }
+}

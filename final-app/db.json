@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "type": "Chocolate Chip",
+    "cookTime": "12 minutes",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "chocolate chips",
+      "eggs",
+      "vanilla extract",
+      "baking soda",
+      "salt"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "Oatmeal Raisin",
+    "cookTime": "10 minutes",
+    "ingredients": [
+      "oats",
+      "raisins",
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla extract",
+      "cinnamon",
+      "baking soda",
+      "salt"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "Snickerdoodle",
+    "cookTime": "8 minutes",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "cream of tartar",
+      "vanilla extract",
+      "cinnamon",
+      "baking soda",
+      "salt"
+    ]
+  },
+  {
+    "id": "4",
+    "type": "Peanut Butter",
+    "cookTime": "10 minutes",
+    "ingredients": [
+      "peanut butter",
+      "sugar",
+      "brown sugar",
+      "butter",
+      "eggs",
+      "flour",
+      "baking soda",
+      "salt"
+    ]
+  },
+  {
+    "id": "5",
+    "type": "Sugar",
+    "cookTime": "8 minutes",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "butter",
+      "eggs",
+      "vanilla extract",
+      "baking powder",
+      "salt"
+    ]
+  }
+]
